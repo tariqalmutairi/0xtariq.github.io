@@ -12,8 +12,7 @@ description: Cyber Security
 # لإستخدام صورة هويتك في GitHub ضع https://github.com/<اسم_المستخدم>.png في المتغير، مثلا لهويتي الشخصية أستخدم:
 # avatar:
 # ولإخفاء الصورة نهائيًا احذف الرابط من المتغير
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
-
+avatar:https://avatars3.githubusercontent.com/u/57005288?s=400&u=8a4aa9c4016cd2f1bf345ffd1966e9ed3e9ee55c&v=4
 
 #
 # المتغيرات الآتية هي خيارية، عدل عليها إذا أردت تخصيص أكثر للمدونة
